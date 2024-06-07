@@ -1,7 +1,8 @@
 # Hello-word
 
-include<iostream>
-using namespacew std;
-int main(){
+include <iostream>
+using namespace std;
+int main()
+{
 cout<<"Hello world";
 }
